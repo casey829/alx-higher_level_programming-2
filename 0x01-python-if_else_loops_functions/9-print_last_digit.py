@@ -1,4 +1,4 @@
-#!/bin/baist_digit(number):
+#!/usr/bin/python3
     if number >= 0:
         l_digit = number % 10
     else:
