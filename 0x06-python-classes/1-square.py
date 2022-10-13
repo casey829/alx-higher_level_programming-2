@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue October 10 01:21:54 2022
-@author: Fiona Wekulo
-"""
-
 
 class Square:
     """Class Square that has attributes. Instantiation with size
@@ -16,4 +11,4 @@ class Square:
         Args:
             size: (:obj: 'int'): A private instance size
         """
-        self.__size = size 
+        self.__size = size
