@@ -1,1 +1,0 @@
-a bout python inheritance
